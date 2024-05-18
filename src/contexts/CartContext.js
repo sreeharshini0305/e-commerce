@@ -1,5 +1,4 @@
-import React,{createContext,useEffect,useState} from 'react'
-import { TbCubeUnfolded } from 'react-icons/tb';
+import React,{createContext,useEffect,useState} from 'react';
 // create context
 export const CartContext=createContext();
 const CartProvider = ({children}) => {

@@ -30,7 +30,7 @@ const Header = () => {
           <Link to={'/'}>
             <div className='flex items-center'>
               <img className='w-[40px]' src={Logo} alt='' />
-              <div className='text-lg ml-4'>UrbanThreads</div>
+              <div className='text-lg ml-4'>UrbanVogue</div>
             </div>
           </Link>
         </div>
